@@ -1,1 +1,1 @@
-# python_snippets
+# PythonSnippets
